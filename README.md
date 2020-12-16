@@ -1,2 +1,2 @@
-# Savo_akademija
+# Savo_akadamija
 AQ Example
